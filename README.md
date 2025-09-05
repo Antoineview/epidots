@@ -18,12 +18,12 @@ Follow these steps to install the configuration for the first time:
 ### Step 2: Clone the Repository
 Run the following command:
 ```sh
-git clone https://github.com/devswax/dotfiles-epita-swax.git
+git clone https://github.com/Antoineview/epidots.git
 ```
 
 ### Step 3: Copy Configuration Files
 ```sh
-cp -r dotfiles-epita-swax/* ~/afs/.confs/
+cp -r epidots/* ~/afs/.confs/
 ```
 
 ### Step 4: Install the Configuration
