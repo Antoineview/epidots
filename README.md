@@ -1,4 +1,6 @@
 # 🖥️ Hyprland + NixOS Configuration for EPITA by Swax
+## Antoine + Fanny + Aurélien Remix
+
 
 This repository contains my **Hyprland** setup for **NixOS** at EPITA.  
 Follow the instructions below to set it up correctly.
